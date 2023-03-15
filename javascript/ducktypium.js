@@ -11,7 +11,7 @@ class Ducktypium {
 
         this.color = colour; // sic
         this.calibrationSequence = [];
-    } 
+    }
 
     refract(colour) {
         validateColour(colour);

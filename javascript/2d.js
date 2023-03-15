@@ -5,7 +5,7 @@ const passwordArray = [
     ["U", "I", "O", "P", "!", "@"],
     ["H", "J", "K", "L", "#", "$"],
     ["M", "%", "^", "&", "*", "?"],
-  ];
+];
 
 console.log(passwordArray[1][3]);
 console.log(passwordArray[3][4]);
